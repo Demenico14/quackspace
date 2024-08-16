@@ -1,7 +1,7 @@
 
 ---
 
-# QuackSpace
+# QuackSpace🦆
 
 **QuackSpace** is a Zoom clone application designed for seamless video conferencing, real-time chat, and collaborative online meetings. Built with modern web technologies, QuackSpace offers a user-friendly interface and robust features to support virtual communication and collaboration.
 
