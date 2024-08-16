@@ -1,4 +1,3 @@
-Here's a custom README for a Zoom clone app called "QuackSpace":
 
 ---
 
@@ -56,22 +55,6 @@ Here's a custom README for a Zoom clone app called "QuackSpace":
 
 
 
-## Usage
-
-1. **Sign up / Log in:** Create an account or log in with an existing account.
-2. **Join or Create a Meeting:** Use the dashboard to join an existing meeting or create a new one.
-3. **Invite Participants:** Share the meeting link with others to invite them.
-4. **Explore Features:** Use the chat, screen sharing, and participant management features during the meeting.
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a pull request.
 
 
 
