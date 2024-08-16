@@ -8,12 +8,8 @@
 ## Features
 
 - **High-Quality Video Conferencing:** Enjoy clear and stable video calls with multiple participants.
-- **Real-Time Messaging:** Chat with participants during the meeting without interrupting the flow.
-- **Screen Sharing:** Share your screen to present documents, slideshows, or applications.
 - **Meeting Recording:** Record your meetings for future reference or sharing with absent participants.
 - **Participant Management:** Host controls for muting, removing participants, and assigning co-hosts.
-- **Custom Meeting Backgrounds:** Personalize your video feed with custom virtual backgrounds.
-- **Breakout Rooms:** Split meetings into smaller groups for focused discussions and then rejoin the main meeting.
 - **Instant and Scheduled Meetings:** Start meetings instantly or schedule them for later with calendar integration.
 - **Secure Authentication:** Secure sign-in with options for single sign-on (SSO) and social media logins.
 - **Cross-Platform Support:** Works seamlessly on web, desktop, and mobile devices.
